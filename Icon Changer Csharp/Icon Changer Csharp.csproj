@@ -103,18 +103,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\50039539_134636.PNG" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Pixel_Terror_Evolution %282%29.mp4" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Panda_Eyes_Serotonin.160.mp4" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Kai_Wachi_Demons.133.mp4" />
-  </ItemGroup>
-  <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
       <Visible>False</Visible>
       <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
